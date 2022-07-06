@@ -1,0 +1,32 @@
+{
+  "name": "universal-data-validator",
+  "version": "1.0.0",
+  "description": "Univeral data validator for APIs, front-end and anything else",
+  "main": "./lib/index.js",
+  "source": "./src/index.ts",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N30G4FF/universal-data-validator.git"
+  },
+  "keywords": [
+    "validation",
+    "data",
+    "security",
+    "validate",
+    "object",
+    "string",
+    "check",
+    "verify"
+  ],
+  "author": "N30G4FF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N30G4FF/universal-data-validator/issues"
+  },
+  "homepage": "https://github.com/N30G4FF/universal-data-validator#readme"
+}
